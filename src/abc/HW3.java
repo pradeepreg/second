@@ -22,7 +22,7 @@ b.display();
  public String accname;
   
  public void deposit(double amount)
- {
+ { int a=5;
 	 if(amount<=0)
 {
 	System.out.println("Dear "+ accname+".You cannot depoist that amount  ");	
